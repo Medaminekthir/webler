@@ -1,0 +1,15 @@
+
+h1{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;text-align: center;font-style: italic;}
+    body{background-image: url(bg.jpg);background-size: cover;
+        background-repeat: no-repeat;background-attachment: fixed;}
+    #divform{width: fit-content;height: fit-content;border: 2px red solid;
+        position: absolute;left: 50%;top: 50%;transform: translate(-50%,-50%);padding: 20px;
+    border-radius: 30px;background-color: tan;}
+    .labels{margin: 0 50% 0  20%;font-size: 20px ;}
+    .champ{border-radius: 20px;padding: 10px;margin: 10px;width: 200px;
+        border: 1px gray solid;
+    background:transparent ;font-size: 20px;
+    }
+    #btn{float: right;padding: 10px;border-radius: 30px;width: 80px;}
+    
